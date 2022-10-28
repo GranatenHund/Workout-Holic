@@ -4,7 +4,8 @@ Make sure that you have flutter and Visual Studio Code in your pc.
 
 Workout-Holic
 -------------
-![MacBook Pro 16_ - 1](https://user-images.githubusercontent.com/114913352/198324965-2fbd76e6-88c3-4ee6-a8df-14e030f8b581.jpg)
+
+![MacBook Pro 16_ - 1](https://user-images.githubusercontent.com/114913352/198579916-2c5c1f02-2363-491c-b644-e18aa5aac3dc.jpg)
 
 Steps: 
  1. Download Workout-Holic folder.
